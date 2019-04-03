@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Ejercicio4-Redireccionamiento:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ejercicio4_Redireccionamiento_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Ejercicio4-Redireccionamiento/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Ejercicio4-Redireccionamiento" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
