@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Ejercicio6-AgendaTelefonos:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ejercicio6_AgendaTelefonos_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Ejercicio6-AgendaTelefonos/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Ejercicio6-AgendaTelefonos" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
